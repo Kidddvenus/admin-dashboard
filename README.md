@@ -49,8 +49,10 @@ A modern, cross-platform **Admin Dashboard** built with Flutter. This applicatio
 
 <!-- Add your screenshots here -->
 <p align="center">
-  <img src="assets/screenshots/dashboard.png" width="350" alt="Dashboard Screenshot"/>
-  <img src="assets/screenshots/members.png" width="350" alt="Members Screenshot"/>
+  <img src="assets/screenshots/login.jpg" width="350" alt="Dashboard Screenshot"/>
+  <img src="assets/screenshots/mainscreen.jpg" width="350" alt="Members Screenshot"/>
+  <img src="assets/screenshots/donutchart.jpg" width="350" alt="Dashboard Screenshot"/>
+  <img src="assets/screenshots/sidemenu.jpg" width="350" alt="Members Screenshot"/>
 </p>
 
 ---
