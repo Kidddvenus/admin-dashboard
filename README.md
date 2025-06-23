@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS"/>
   <img src="https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web"/>
-  <img src="https://img.shields.io/github/license/<YOUR_GITHUB_USERNAME>/<YOUR_REPO_NAME>?style=for-the-badge" alt="License"/>
+  
 </p>
 
 ---
